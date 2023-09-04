@@ -1,0 +1,6 @@
+git pull
+git status
+git add *.py
+git status
+git commit -m "<comment - what is the change in the program about>"
+git push
