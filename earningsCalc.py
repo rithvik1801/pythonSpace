@@ -1,0 +1,5 @@
+n=float(input("Enter the price for vegetables per kilogram in USD"))
+m=float(input("Enter the price for fruits per kilogram in USD"))
+namount=float(input("Enter the number of kilograms for vegetables"))
+mamount=float(input("Enter the number of kilograms for fruits"))
+print("This is the earnings in INR :",(namount*n)*81.5+(mamount*m)*81.5)
