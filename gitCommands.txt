@@ -1,3 +1,4 @@
+ cd /c/MySpace/pythonSpace/
 git pull
 git status
 git add *.py
